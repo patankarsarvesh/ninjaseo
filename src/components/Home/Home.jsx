@@ -8,7 +8,7 @@ const Home = () => {
           Team of <b>SEO</b> Experts
         </h1>
         <p className="md:text-4xl text-2xl">
-          Your <br>SEO</br>SEO Journey Begins Here
+          Your <b>SEO</b> Journey Begins Here
         </p>
         <button className="bg-yellow-400 hover:bg-yellow-500 text-green-800 font-semibold hover:bg-transparent hover:text-white py-2 px-4 border border-yellow-500 hover:border-yellow-500 rounded-2xl">
           Book a Call
